@@ -5,4 +5,4 @@ I decided on the topic of risk classification in the life insurance industry, si
 
 This was an important problem to solve because there has been a steady decline in life insurance policies, and constantly misclassifying risk (or adverse selection) leads to unecessary costs. 
 
-I'm currently revisiting this project to update it so it can be replicated using current packages, as well as to continue experimenting with models that better deal with imbalanced datasets.
+I'm currently revisiting this project to update it so it can be replicated using current packages, as well as to [continue experimenting with models that better deal with imbalanced datasets]([url](https://github.com/jacobcperez15/multiclass-risk-classifier/blob/master/LIRiskClassBalanced.ipynb)https://github.com/jacobcperez15/multiclass-risk-classifier/blob/master/LIRiskClassBalanced.ipynb).
